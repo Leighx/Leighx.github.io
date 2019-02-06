@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+#header {
+    text-align: center;
+}
+
+#demo {
+    text-align: center;
+}
+
+#orderForm {
+    background-color: rgb(192, 12, 192);
+    border: 2px groove rgb(0, 0, 0);
+    text-align: right;
+}
+
+table {
+    font-size: 100%;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+}
+
+td,
+th {
+    text-align: left;
+    padding: 8px;
+    border: 2px groove rgb(0, 0, 0);
+}
+
+tr:nth-child(even) {
+    background-color: #ffffff;
+}
+
+#test {
+    background-color: #ffffff;
+    padding: 10px;
+    border: 2px groove rgb(0, 0, 0);
+    line-height: 30px;
+    font-size: 16px;
+    font-family: cursive;
+}

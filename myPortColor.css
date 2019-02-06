@@ -1,0 +1,16 @@
+#test {
+    padding: 25px;
+    background-color: rgb(0, 0, 0);
+    border-style: solid;
+    color: rgb(255, 255, 255);
+}
+
+#test1 {
+    background-color: rgb(219, 13, 202);
+    border-style: solid;
+}
+
+.jumbotron {
+    background-color: rgb(182, 179, 182);
+    border-style: solid;
+}
